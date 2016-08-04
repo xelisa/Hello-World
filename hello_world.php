@@ -1,4 +1,4 @@
- hello_word.php“I“à—e
+ hello_word.phpçš„"å†…å®¹"
 <?php
   echo "Hello World!";
 ?>
